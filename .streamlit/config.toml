@@ -1,0 +1,16 @@
+[client]
+# "minimal" hides the built-in toolbar menu (Record screen, Clear cache, Settings...).
+toolbarMode = "minimal"
+showSidebarNavigation = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+# Force the light theme so the Autumn Luxe palette never meets a dark OS/browser theme.
+base = "light"
+primaryColor = "#BF8440"
+backgroundColor = "#E2E1EB"
+secondaryBackgroundColor = "#F1F0F6"
+textColor = "#322D27"
+font = "sans serif"
